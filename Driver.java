@@ -94,7 +94,7 @@ public class Driver {
 			}
 
 			//scanner scans the next line but doesn't do anything with what was scanned
-			System.out.println("(\nPress enter to continue)");
+			System.out.println("\n(Press enter to continue)");
 			scanBot.nextLine();
 			clear();
 		}
